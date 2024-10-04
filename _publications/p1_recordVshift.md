@@ -3,8 +3,6 @@ title: "Genealogy of records of stochastic processes with stationary increments 
 collection: publications
 category: manuscripts
 permalink: /publication/p1_recordVshift
-excerpt: submitted
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 <!-- template
