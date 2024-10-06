@@ -26,7 +26,7 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 # Publications
 
-
+*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/)
 
 <!--
 
