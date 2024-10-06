@@ -13,13 +13,16 @@ This is the front page of a website that is powered by the [Academic Pages templ
 I am interested in the theory and applications of random networks and stochastic geometry.
 
 In today's interconnected world, understanding the properties and dynamics of random networks is essential.
+On the theoretical side, I am involved in studying unimodular networks and dynamics on it drawing parallels from the Palm theory of stationary point processes.
+of random graphs. I am also interested in 
+the application of stochastic geometry and random graphs to model climate extremes, assess climate impact, financial contagion, assess portfolio risk, and detect market anomalies. 
 -->
 
-My research focuses on the theoretical underpinning and practical applications of random graphs and stochastic geometry.
+I am interested in the theoretical and applied aspects of random graphs and stochastic geometry.
 
-On the theoretical side, I am involved in studying unimodular networks and dynamics on it drawing parallels from the Palm theory of stationary point processes.
+My research focuses on understanding unimodular networks and dynamics on them, drawing parallels from the Palm theory of stationary point processes.
 
-As for the applications, I am involved in developing methods to process graph data using local theory of random graphs. I am also interested in the application of stochastic geometry and random graphs to model climate extremes, assess climate impact, financial contagion, assess portfolio risk, and detect market anomalies. 
+On the applied side, I am developing methods to analyze graph data using local theory using stochastic geometry and random graphs to study climate extremes, assess climate impacts, model financial contagion, evaluate portfolio risk, and detect market anomalies.
 
 <!--
 
