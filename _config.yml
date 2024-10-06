@@ -21,7 +21,7 @@ repository               : "Bharath-RoyChoudhury/bharath-roychoudhury.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.jpg"
+  avatar           : "pic.jpeg"
   name             : "Bharath Roy Choudhury"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at Max Planck Dioscuri Centre for Random Walks in Geometry and Topology"
