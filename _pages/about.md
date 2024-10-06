@@ -18,7 +18,7 @@ of random graphs. I am also interested in
 the application of stochastic geometry and random graphs to model climate extremes, assess climate impact, financial contagion, assess portfolio risk, and detect market anomalies. 
 -->
 
-My research interests lie  in the theoretical and applied aspects of random graphs and stochastic geometry.
+My research interests lie in the theoretical and applied aspects of random graphs and stochastic geometry.
 
 My research focuses on understanding unimodular networks and dynamics on them, drawing parallels from the Palm theory of stationary point processes.
 
