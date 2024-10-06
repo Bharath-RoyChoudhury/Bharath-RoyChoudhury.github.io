@@ -32,6 +32,7 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 (In preparation) *Stability of scattering transforms on Sparse graphs*, with [Simon Coste](https://scoste.fr/) and [Bartłomiej (Bartek) Błaszczyszyn](https://www.di.ens.fr/~blaszczy/)
 
+PhD thesis: *Records of stationary processes and unimodular networks*, [arXiv Link](https://arxiv.org/abs/2312.08121)
 
 
 <!--
