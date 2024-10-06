@@ -26,7 +26,13 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 # Publications
 
-*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/)
+(Submitted) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657)
+
+(In preparation) *Vertex-shift probabilities* with [François Baccelli](https://project.inria.fr/ercnemo/members/)
+
+(In preparation) *Stability of scattering transforms on Sparse graphs*, with [Simon Coste](https://scoste.fr/) and [Bartłomiej (Bartek) Błaszczyszyn](https://www.di.ens.fr/~blaszczy/)
+
+
 
 <!--
 
