@@ -20,7 +20,7 @@ the application of stochastic geometry and random graphs to model climate extrem
 
 My research interests lie in the theoretical and applied aspects of random graphs and stochastic geometry.
 
-My research focuses on understanding unimodular networks and dynamics on them, drawing parallels from the Palm theory of stationary point processes.
+On the theoretical side, my research focuses on understanding unimodular networks and dynamics on them, drawing parallels from the Palm theory of stationary point processes.
 
 On the applied side, I am developing methods to analyze graph data using local theory. I am also interested in using stochastic geometry and random graphs to study climate extremes, assess climate impacts, model financial contagion, evaluate portfolio risk, and detect market anomalies.
 
