@@ -24,6 +24,10 @@ On the theoretical side, my research focuses on understanding unimodular network
 
 On the applied side, I am developing methods to analyze graph data using local theory. I am also interested in using stochastic geometry and random graphs to study climate extremes, assess climate impacts, model financial contagion, evaluate portfolio risk, and detect market anomalies.
 
+# Publications
+
+
+
 <!--
 
 A data-driven personal website
