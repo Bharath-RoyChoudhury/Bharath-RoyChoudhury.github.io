@@ -38,7 +38,7 @@ PhD thesis: *Records of stationary processes and unimodular networks*, defended 
 
 # Contact me
 
-Email: bharath.roy.choudhury@uj.edu.pl
+Email: [bharath.roy.choudhury@uj.edu.pl](mailto:bharath.roy.choudhury@uj.edu.pl)
 
 <!--
 
