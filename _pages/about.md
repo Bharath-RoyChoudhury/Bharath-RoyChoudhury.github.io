@@ -30,7 +30,7 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 (In preparation) *Vertex-shift probabilities* with [François Baccelli](https://project.inria.fr/ercnemo/members/)
 
-(In preparation) *Coupling of Poisson hyperplane tessellations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home)
+(In preparation) *Coupling of Poisson hyperplane tessellations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/). 
 
 (In preparation) *Stability of scattering transforms on sparse graphs*, with [Simon Coste](https://scoste.fr/) and [Bartłomiej (Bartek) Błaszczyszyn](https://www.di.ens.fr/~blaszczy/)
 
