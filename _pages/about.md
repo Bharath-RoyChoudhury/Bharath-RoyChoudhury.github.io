@@ -26,7 +26,7 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 # Publications
 
-(Accepted in Annales de l’Institut Henri Poincaré (B) Probabilités et Statistiques) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657).
+(Accepted in Annales de l'Institut Henri Poincaré, Probabilités et Statistiques) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657).
 
 (In preparation) *Asymptotic Behaviour of Vertex-Shift Dynamics on Unimodular Networks* with [François Baccelli](https://project.inria.fr/ercnemo/members/).
 
