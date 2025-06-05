@@ -26,13 +26,12 @@ On the applied side, I am developing methods to analyze graph data using local t
 
 # Publications
 
-(Submitted) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657).
+(Accepted in Annales de l’Institut Henri Poincaré (B) Probabilités et Statistiques) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657).
 
 (In preparation) *Asymptotic Behaviour of Vertex-Shift Dynamics on Unimodular Networks* with [François Baccelli](https://project.inria.fr/ercnemo/members/).
 
 (In preparation) *Coupling of Poisson hyperplane tessellations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/). 
 
-(In preparation) *Stability of scattering transforms on sparse graphs*, with [Simon Coste](https://scoste.fr/) and [Bartłomiej (Bartek) Błaszczyszyn](https://www.di.ens.fr/~blaszczy/).
 
 PhD thesis: *Records of stationary processes and unimodular networks*, defended on 18 September 2023, [arXiv Link](https://arxiv.org/abs/2312.08121).
 
