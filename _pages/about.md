@@ -36,7 +36,7 @@ On the applied side, I am developing methods to analyze graph data using local t
 PhD thesis: *Records of stationary processes and unimodular networks*, defended on 18 September 2023, [arXiv Link](https://arxiv.org/abs/2312.08121).
 
 # Contact
-
+test
 Email: [bharath.roy.choudhury@uj.edu.pl](mailto:bharath.roy.choudhury@uj.edu.pl)
 
 <!--
