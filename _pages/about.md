@@ -19,18 +19,18 @@ On the applied side, I am developing methods to analyze graph data and point clo
 
 # Publications and preprints
 
-#### Unimodular networks
+### Unimodular networks
 
-*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [Ann. Inst. H. Poincaré Probab. Statist.](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-4/Genealogies-of-records-of-stochastic-processes-with-stationary-increments-as/10.1214/25-AIHP1598.short), [arXiv link](https://arxiv.org/abs/2403.05657).
+*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/); Ann. Inst. H. Poincaré Probab. Statist. [DOI: 10.1214/25-AIHP1598] (https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-4/Genealogies-of-records-of-stochastic-processes-with-stationary-increments-as/10.1214/25-AIHP1598.short); [arXiv:2403.05657](https://arxiv.org/abs/2403.05657).
 
 (In preparation) *Asymptotic Behaviour of Vertex-Shift Dynamics on Unimodular Networks* with [François Baccelli](https://project.inria.fr/ercnemo/members/).
  
 
-PhD thesis: *Records of stationary processes and unimodular networks*, defended on 18 September 2023, [arXiv Link](https://arxiv.org/abs/2312.08121).
+PhD thesis: *Records of stationary processes and unimodular networks*, defended on 18 September 2023, [arXiv:2312.08121](https://arxiv.org/abs/2312.08121).
 
-#### Statistical machine learning
+### Statistical machine learning
 
-(Submitted) *Wasserstein stability of the zero cell of a Poisson hyperplane tessellation under directional perturbations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/), [arxiv link](https://arxiv.org/abs/2608.13452v1).
+(Submitted) *Wasserstein stability of the zero cell of a Poisson hyperplane tessellation under directional perturbations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/), [arXiv:2608.13452](https://arxiv.org/abs/2608.13452v1).
 
 
 # Contact
