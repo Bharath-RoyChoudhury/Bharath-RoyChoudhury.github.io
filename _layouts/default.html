@@ -4,6 +4,20 @@ layout: compress
 
 {% include base_path %}
 
+{% assign allowed_page_urls = "/,/about,/about/,/about.html,/cv,/cv/,/cv.html" | split: "," %}
+{% unless allowed_page_urls contains page.url %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url=https://bharath-roychoudhury.github.io/">
+    <title>Redirecting</title>
+  </head>
+  <body>
+    <p>This page has moved. <a href="https://bharath-roychoudhury.github.io/">Go to the homepage</a>.</p>
+  </body>
+</html>
+{% else %}
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
@@ -18,14 +32,8 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
     {% include scripts.html %}
 
   </body>
 </html>
+{% endunless %}
