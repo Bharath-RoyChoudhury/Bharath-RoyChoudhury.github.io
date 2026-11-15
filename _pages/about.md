@@ -21,7 +21,7 @@ On the applied side, I am developing methods to analyze graph data and point clo
 
 ### Unimodular networks
 
-*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/); Ann. Inst. H. Poincaré Probab. Statist. [DOI: 10.1214/25-AIHP1598] (https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-4/Genealogies-of-records-of-stochastic-processes-with-stationary-increments-as/10.1214/25-AIHP1598.short); [arXiv:2403.05657](https://arxiv.org/abs/2403.05657).
+*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/); Ann. Inst. H. Poincaré Probab. Statist. [DOI: 10.1214/25-AIHP1598](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-4/Genealogies-of-records-of-stochastic-processes-with-stationary-increments-as/10.1214/25-AIHP1598.short); [arXiv:2403.05657](https://arxiv.org/abs/2403.05657).
 
 (In preparation) *Asymptotic Behaviour of Vertex-Shift Dynamics on Unimodular Networks* with [François Baccelli](https://project.inria.fr/ercnemo/members/).
  
