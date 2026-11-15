@@ -9,31 +9,29 @@ redirect_from:
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-I am interested in the theory and applications of random networks and stochastic geometry.
-
-In today's interconnected world, understanding the properties and dynamics of random networks is essential.
-On the theoretical side, I am involved in studying unimodular networks and dynamics on it drawing parallels from the Palm theory of stationary point processes.
-of random graphs. I am also interested in 
-the application of stochastic geometry and random graphs to model climate extremes, assess climate impact, financial contagion, assess portfolio risk, and detect market anomalies. 
 -->
 
 My research interests lie in the theoretical and applied aspects of random graphs and stochastic geometry.
 
 On the theoretical side, my research focuses on understanding unimodular networks and dynamics on them, drawing parallels from the Palm theory of stationary point processes.
 
-On the applied side, I am developing methods to analyze graph data using local theory. I am also interested in using stochastic geometry and random graphs to study climate extremes, assess climate impacts, model financial contagion, evaluate portfolio risk, and detect market anomalies.
+On the applied side, I am developing methods to analyze graph data and point cloud data using local theory.
 
-# Publications
+# Publications and preprints
 
-(Accepted in Annales de l'Institut Henri Poincaré, Probabilités et Statistiques) *Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [arXiv link](https://arxiv.org/abs/2403.05657).
+## Unimodular networks
+
+*Genealogy of records of stochastic processes with stationary increments as unimodular trees* with [François Baccelli](https://project.inria.fr/ercnemo/members/), [Ann. Inst. H. Poincaré Probab. Statist.](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-62/issue-4/Genealogies-of-records-of-stochastic-processes-with-stationary-increments-as/10.1214/25-AIHP1598.short), [arXiv link](https://arxiv.org/abs/2403.05657).
 
 (In preparation) *Asymptotic Behaviour of Vertex-Shift Dynamics on Unimodular Networks* with [François Baccelli](https://project.inria.fr/ercnemo/members/).
-
-(In preparation) *Coupling of Poisson hyperplane tessellations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/). 
-
+ 
 
 PhD thesis: *Records of stationary processes and unimodular networks*, defended on 18 September 2023, [arXiv Link](https://arxiv.org/abs/2312.08121).
+
+## Statistical machine learning
+
+(Submitted) *Wasserstein stability of the zero cell of a Poisson hyperplane tessellation under directional perturbations*, with [Eliza O'Reilly](https://sites.google.com/view/eliza-oreilly/home) and [Gilles Bonnet](https://www.math.rug.nl/gbonnet/), [arxiv link](https://arxiv.org/abs/2608.13452v1).
+
 
 # Contact
 
